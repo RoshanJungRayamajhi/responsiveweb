@@ -113,7 +113,7 @@ width: 100%;
 #title{
     width: fit-content;
     height: 13px;
-    font-size: 3vw;
+    font-size: 1vw;
     font-weight:700;
     display: flex;
     gap: 4vw;
